@@ -1,0 +1,15 @@
+W135-VPX_IV_3.dat
+Hamamatsu 1 W135 VPX
+whatever
+Wed, Feb 27, 2019, 1:44:51 PM
+IV
+SFU	Keithley 2410	
+Temperature: 19.4	Humidity: 14.0
+2 6
+Voltage[V] Current[nA]
+0000000.00	0000003.19
+-000010.00	-000031.47
+-000020.00	-000042.26
+-000030.00	-000049.42
+-000040.00	-000053.28
+-000050.00	-000055.79

@@ -1,0 +1,560 @@
+
+Wed, Feb 27, 2019, 10:43:38 AM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Alyssa 	 Keithley 2410 
+Run aborted - by user
+Data not saved!
+
+
+
+Wed, Feb 27, 2019, 11:42:20 AM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Alyssa 	 Keithley 2410 
+Run ended normally
+Data not saved!
+
+
+
+Thu, Oct 10, 2019, 9:45:25 AM 	 CV: Hamamatsu ATLAS12EC W135 VPX27227 	 whatever 	 Alyssa 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+C:\ProbeTestSoftware2019\Data\R0\ATLAS12EC\W135\W135-VPX27227\CV\W135-VPX27227_CV_1.dat
+Run aborted - by user
+
+
+Thu, Oct 10, 2019, 12:05:34 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 10, 2019, 12:09:39 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 10, 2019, 2:43:04 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 10, 2019, 2:57:03 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 10, 2019, 2:58:59 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 10, 2019, 3:00:38 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 10, 2019, 3:26:23 PM 	 CV: Hamamatsu ATLAS12EC W134 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Fri, Oct 11, 2019, 12:30:54 PM 	 CV: Hamamatsu ATLAS12EC W134 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 17, 2019, 12:35:29 PM 	 CV: Hamamatsu ATLAS12EC W134 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 17, 2019, 12:46:50 PM 	 CV: Hamamatsu ATLAS12EC W134 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 17, 2019, 12:55:04 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 17, 2019, 1:17:10 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - Ilimit exceeded
+
+
+Thu, Oct 17, 2019, 1:24:54 PM 	 CV: Hamamatsu ATLAS12EC W134 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+C:\ProbeTestSoftware2019\Data\R0\ATLAS12EC\W134\W134-VPX27227\CV\W134-VPX27227_CV_1.dat
+Run aborted - Ilimit exceeded
+
+
+Thu, Oct 17, 2019, 3:58:18 PM 	 CV: Hamamatsu ATLAS12EC W132 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = -325V
+C:\ProbeTestSoftware2019\Data\R0\ATLAS12EC\W132\W132-VPX27227\CV\W132-VPX27227_CV_1.dat
+Run ended normally
+
+
+Thu, Oct 17, 2019, 4:36:24 PM 	 CV: Hamamatsu ATLAS12EC W132 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 17, 2019, 4:38:07 PM 	 CV: Hamamatsu ATLAS12EC W132 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 17, 2019, 4:42:18 PM 	 CV: Hamamatsu ATLAS12EC W132 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Fri, Oct 18, 2019, 2:47:57 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Alyssa 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+C:\ProbeTestSoftware2019\Data\R0\ATLAS12EC\W129\W129-VPX27227\CV\W129-VPX27227_CV_1.dat
+Compliance exceeded
+
+
+Wed, Oct 30, 2019, 1:48:14 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+C:\ProbeTestSoftware2019\Data\R0\ATLAS12EC\W129\W129-VPX27227\CV\W129-VPX27227_CV_2.dat
+Run aborted - by user
+
+
+Wed, Oct 30, 2019, 1:51:50 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Wed, Oct 30, 2019, 2:00:05 PM 	 CV: Hamamatsu ATLAS12EC W132 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Wed, Oct 30, 2019, 2:02:17 PM 	 CV: Hamamatsu ATLAS12EC W132 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Wed, Oct 30, 2019, 2:07:24 PM 	 CV: Hamamatsu ATLAS12EC W132 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Wed, Oct 30, 2019, 2:28:08 PM 	 CV: Hamamatsu ATLAS12EC W132 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Wed, Oct 30, 2019, 2:59:08 PM 	 CV: Hamamatsu ATLAS12EC W132 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Wed, Oct 30, 2019, 3:02:52 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Wed, Oct 30, 2019, 3:04:35 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Wed, Oct 30, 2019, 3:25:06 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Wed, Oct 30, 2019, 3:28:35 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Wed, Oct 30, 2019, 3:43:34 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Wed, Oct 30, 2019, 3:45:48 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 31, 2019, 11:56:07 AM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 31, 2019, 12:00:30 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 31, 2019, 12:07:10 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 31, 2019, 12:30:24 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 31, 2019, 12:32:34 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 31, 2019, 12:35:54 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 31, 2019, 12:40:12 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 31, 2019, 12:49:17 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Oct 31, 2019, 1:05:26 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Nov 7, 2019, 2:07:13 PM 	 CV: Hamamatsu test test test 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT passed 	 V_depletion = -75V
+C:\ProbeTestSoftware2019\Data\R0\test\test\test-test\CV\test-test_CV_1.dat
+Run ended normally
+1 : With Parallel Resistance
+
+
+Thu, Nov 7, 2019, 2:33:39 PM 	 CV: Hamamatsu test test test 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+C:\ProbeTestSoftware2019\Data\R0\test\test\test-test\CV\test-test_CV_2.dat
+Run aborted - by user
+1 : 5M Ohm resistnace in series
+
+
+Thu, Nov 7, 2019, 3:26:13 PM 	 CV: Hamamatsu test test test 	 whatever 	 Graham 	 Keithley 2657A, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Nov 7, 2019, 4:45:59 PM 	 CV: Hamamatsu KE2657A Parallel R W046 test 	 whatever 	 Graham 	 Keithley 2657A, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Nov 7, 2019, 4:52:34 PM 	 CV: Hamamatsu KE2657A-2.2MSeries W046 test 	 whatever 	 Graham 	 Keithley 2657A, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Fri, Nov 15, 2019, 3:53:14 PM 	 CV: Hamamatsu ATLAS12EC W046 VPX27227 	 whatever 	 Graham 	 Keithley 2657A, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Fri, Nov 15, 2019, 4:27:38 PM 	 CV: Hamamatsu ATLAS12EC W134 VPX27227 	 whatever 	 Graham 	 Keithley 2657A, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Fri, Nov 15, 2019, 4:40:33 PM 	 CV: Hamamatsu ATLAS12EC W134 VPX27227 	 whatever 	 Graham 	 Keithley 2657A, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - Ilimit exceeded
+
+
+Mon, Nov 18, 2019, 12:20:55 PM 	 CV: Hamamatsu ATLAS12EC W046 VPX22728 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Mon, Nov 18, 2019, 1:18:02 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Mon, Nov 18, 2019, 1:21:23 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - Ilimit exceeded
+
+
+Wed, Nov 20, 2019, 3:25:11 PM 	 CV: Hamamatsu ATLAS12EC W134 VPX27227 	 whatever 	 Graham 	 Keithley 2657A, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Mon, Nov 25, 2019, 12:36:32 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2657A, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Mon, Nov 25, 2019, 12:44:06 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2657A, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Mon, Nov 25, 2019, 12:48:59 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2657A, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Mon, Nov 25, 2019, 12:50:59 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2657A, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Mon, Nov 25, 2019, 12:52:52 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Mon, Nov 25, 2019, 1:02:20 PM 	 CV: Hamamatsu W129 VPX27227 VPX27227-W129 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Mon, Nov 25, 2019, 1:05:20 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Mon, Nov 25, 2019, 1:24:19 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Mon, Nov 25, 2019, 1:33:00 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Mon, Nov 25, 2019, 1:35:08 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Tue, Nov 26, 2019, 10:41:02 AM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Compliance exceeded
+
+
+Tue, Nov 26, 2019, 10:43:24 AM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Tue, Nov 26, 2019, 10:47:36 AM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Tue, Nov 26, 2019, 10:51:03 AM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Tue, Nov 26, 2019, 12:00:28 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Tue, Nov 26, 2019, 12:03:48 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Tue, Nov 26, 2019, 12:07:45 PM 	 CV: Hamamatsu ATLAS12EC W129 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Tue, Nov 26, 2019, 2:44:05 PM 	 CV: Hamamatsu ATLAS12EC W128 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Tue, Nov 26, 2019, 2:45:54 PM 	 CV: Hamamatsu ATLAS12EC W128 VPX27227 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Nov 28, 2019, 3:55:18 PM 	 CV: Hamamatsu MAIN ATLAS12EC 191 VPX30905 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Compliance exceeded
+
+
+Thu, Nov 28, 2019, 3:58:50 PM 	 CV: Hamamatsu MAIN ATLAS12EC 191 VPX30905 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Compliance exceeded
+
+
+Thu, Nov 28, 2019, 4:01:21 PM 	 CV: Hamamatsu MAIN ATLAS12EC 191 VPX30905 	 whatever 	 Alyssa 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Compliance exceeded
+
+
+Thu, Nov 28, 2019, 4:03:21 PM 	 CV: Hamamatsu MAIN ATLAS12EC 191 VPX30905 	 whatever 	 Alyssa 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Nov 28, 2019, 4:04:03 PM 	 CV: Hamamatsu MAIN ATLAS12EC 191 VPX30905 	 whatever 	 Alyssa 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Nov 28, 2019, 4:05:22 PM 	 CV: Hamamatsu MAIN ATLAS12EC 191 VPX30905 	 whatever 	 Alyssa 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Nov 28, 2019, 4:15:24 PM 	 CV: Hamamatsu 1 1 1 	 whatever 	 Alyssa 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Nov 28, 2019, 4:17:14 PM 	 CV: Hamamatsu MAIN ATLAS12EC 191 VPX30905 	 whatever 	 Alyssa 	 Keithley 2410, WayneKerr 6440B 
+DUT passed 	 V_depletion = -223V
+C:\ProbeTestSoftware2019\Data\R0\MAIN ATLAS12EC\191\191-VPX30905\CV\191-VPX30905_CV_1.dat
+Run ended normally
+
+
+Thu, Nov 28, 2019, 4:36:41 PM 	 CV: Hamamatsu MAIN ATLAS12EC 191 VPX30905 	 whatever 	 Alyssa 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Compliance exceeded
+
+
+Thu, Nov 28, 2019, 4:37:38 PM 	 CV: Hamamatsu MAIN ATLAS12EC 191 VPX30905 	 whatever 	 Alyssa 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Compliance exceeded
+
+
+Thu, Nov 28, 2019, 4:41:17 PM 	 CV: Hamamatsu MAIN ATLAS12EC 191 VPX30905 	 whatever 	 Alyssa 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Thu, Nov 28, 2019, 4:49:52 PM 	 CV: Hamamatsu MAIN ATLAS12EC 191 VPX30905 	 whatever 	 Alyssa 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Run aborted - by user
+
+
+Fri, Dec 6, 2019, 11:37:24 AM 	 CV: Hamamatsu MAIN ATLAS12EC W219 VPX30906 	 whatever 	 Alyssa 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+C:\ProbeTestSoftware2019\Data\R0\MAIN ATLAS12EC\W219\W219-VPX30906\CV\W219-VPX30906_CV_1.dat
+Run aborted - by user
+
+
+Fri, Dec 6, 2019, 12:05:08 PM 	 CV: Hamamatsu MAIN ATLAS12EC W216 VPX30906 	 whatever 	 Graham 	 Keithley 2410 
+DUT failed 	 V_depletion = 0V
+Data not saved!
+Run aborted - by user
+
+
+Fri, Dec 6, 2019, 1:01:21 PM 	 CV: Hamamatsu MAIN ATLAS12EC W213 VPX30906 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+C:\ProbeTestSoftware2019\Data\R0\MAIN ATLAS12EC\W213\W213-VPX30906\CV\W213-VPX30906_CV_1.dat
+Run ended normally
+
+
+Fri, Dec 6, 2019, 1:42:16 PM 	 CV: Hamamatsu MAIN ATLAS12EC W228 VPX30906 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+Data not saved!
+Compliance exceeded
+
+
+Fri, Dec 6, 2019, 1:44:54 PM 	 CV: Hamamatsu MAIN ATLAS12EC W228 VPX30906 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+C:\ProbeTestSoftware2019\Data\R0\MAIN ATLAS12EC\W228\W228-VPX30906\CV\W228-VPX30906_CV_1.dat
+Run aborted - Ilimit exceeded
+
+
+Fri, Dec 6, 2019, 2:20:20 PM 	 CV: Hamamatsu MAIN ATLAS12EC W192 VPX30905 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT passed 	 V_depletion = -235V
+C:\ProbeTestSoftware2019\Data\R0\MAIN ATLAS12EC\W192\W192-VPX30905\CV\W192-VPX30905_CV_1.dat
+Run ended normally
+
+
+Wed, Jan 8, 2020, 10:21:04 AM 	 CV: Hamamatsu MAIN ATLAS12EC W192 VPX30905 	 whatever 	 Graham 	 Keithley 2410, WayneKerr 6440B 
+DUT failed 	 V_depletion = NaNV
+C:\ProbeTestSoftware2019\Data\R0\MAIN ATLAS12EC\W192\W192-VPX30905\CV\W192-VPX30905_CV_2.dat
+Run ended normally
+

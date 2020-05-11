@@ -1,0 +1,22 @@
+Default IV measurement configurations
+==================================
+SUPPLY%Keithley 2410
+- default supply
+INITIALV%0
+- initial bias voltage of IV scan, TDR: 0
+FINALV%-500
+- final bias voltage of IV scan, TDR: -700
+STEPSIZE%10
+- size of voltage steps during IV scan, TDR: 10
+STEPDELAY%10
+- interval between voltage steps during IV scan in seconds, TDR: 10
+NUMBEROFSTEPS%51
+- number of steps per IV scan
+RAMPDOWNSTEPS%10
+- ramp down steps in Volts, TDR: 10
+RAMPDOWNDELAY%1
+- ramp down interval in seconds, TDR: 1
+TREADOUT%Arduino
+- Arduino or not?
+VBREAKDOWN%-500
+- Minimum breakdown voltage in volts allowed in specs
